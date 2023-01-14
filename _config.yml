@@ -1,6 +1,6 @@
 # Site configuration
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://songroger.win" # the base hostname & protocol for your site
+url: "https://yuzho.cn" # the base hostname & protocol for your site
 permalink: /:title/
 avatar: /photos/avatar.jpg
 about: /photos/about.jpg
