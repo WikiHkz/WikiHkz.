@@ -9,20 +9,18 @@ favicon: /assets/favicon.ico
 # Theme specific configuration
 title: songroger
 description: >
-  Hi there, My name is Luozhan.Song, usually I use "songroger" as my ID everywhere.
-  I was born and raised in Hunan China. 
-  I'm really fond of beautiful design, drawing etc.
-keywords: songroger,github
+  this is yuzho.cn page.
+keywords: yuzho.cn, github
 
 about_bgm: "https://dev.tencent.com/api/share/download/3f03e8c9-2187-454c-ba65-66e7d003a660"
 weather_api: "https://www.easy-mock.com/mock/59643dccb6cab76bb7383dcf/api/weather?city="
 
 # Contact and social media links
-twitter_username: songrogero
-github_username: songroger
-facebook_username: song.roger.1
-instagram_username: songroger198
-linkedin_username: songroger
+# twitter_username: songrogero
+github_username: WikiHkz
+# facebook_username: song.roger.1
+# instagram_username: songroger198
+# linkedin_username: songroger
 
 exclude: ['node_modules', 'gulpfile.js', 'package.json']
 
