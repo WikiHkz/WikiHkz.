@@ -2,18 +2,18 @@
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://yuzho.cn" # the base hostname & protocol for your site
 permalink: /:title/
-avatar: /photos/avatar.jpg
-about: /photos/about.jpg
+avatar: /assets/avatar.jpg
+# about: /photos/about.jpg
 favicon: /assets/favicon.ico
 # basecss: http://7xof48.com1.z0.glb.clouddn.com/songroger/main.min.css
 # Theme specific configuration
-title: songroger
+title: YUZHO.cn
 description: >
   this is yuzho.cn page.
 keywords: yuzho.cn, github
 
-about_bgm: "https://dev.tencent.com/api/share/download/3f03e8c9-2187-454c-ba65-66e7d003a660"
-weather_api: "https://www.easy-mock.com/mock/59643dccb6cab76bb7383dcf/api/weather?city="
+# about_bgm: "https://dev.tencent.com/api/share/download/3f03e8c9-2187-454c-ba65-66e7d003a660"
+# weather_api: "https://www.easy-mock.com/mock/59643dccb6cab76bb7383dcf/api/weather?city="
 
 # Contact and social media links
 # twitter_username: songrogero
